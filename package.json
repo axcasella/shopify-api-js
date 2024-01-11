@@ -1,6 +1,6 @@
 {
   "name": "@axcasella/shopify-api",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Shopify API Library for Node - accelerate development with support for authentication, graphql proxy, webhooks",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
